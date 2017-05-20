@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rafael</string>
+    <string name="titulo">Time S2</string>
+    <string name="desenvolvido">Desenvolvido por Rafael</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_idade">Idade</string>
+
+    <string name="selecione_time">Selecione o time</string>
+    <string name="Corinthians">Corinthians</string>
+    <string name="Sao_Paulo">São Paulo</string>
+    <string name="Santos">Santos</string>
+    <string name="Palmeiras">Palmeiras</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="confirmacao_cadastro">
+        Olá, %1$s parabés por torcer pelo %2$s
+    </string>
+</resources>
